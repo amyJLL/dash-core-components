@@ -34,5 +34,5 @@ export {
     DatePickerSingle,
     DatePickerRange,
     Upload,
-    Tabs
+    Tabs,
 };
